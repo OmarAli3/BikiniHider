@@ -1,5 +1,5 @@
 # BikiniHider
-A simple ChromeExtension to hide Facebook_marketplace because it always displays unwanted and sexy images.
+A simple ChromeExtension to hide Facebook_marketplace because it always shows an adult content.
 
 #### To use the Extension :
  - Download this repo
