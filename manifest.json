@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "BikiniHider",
+    "version": "1.0",
+    "content_scripts": [
+        {
+          "matches": [
+            "https://*.facebook.com/*", "http://*.facebook.com/*"
+          ],
+          "js": ["hiderCommand.js"]
+        }
+      ]
+  }
